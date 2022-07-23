@@ -5,7 +5,7 @@
 - 🌱 estou aprendendo no momento a desenvolver sites utilizando python, usando os frameworks Flask e Django, também estudo bastante sobre automação
 -  e sistemas embarcados dentro da universsidade, tambem conclui a pouco tempo o cursso de ciencia de dados.
 - 💞️ estou muito anssioso para poder colaborar com outras pessoas ou empresas, atualmente já desenvolvo alguns projetos proprios e auxilio outros projetos
--  dentro da universssidade.
+- dentro da universssidade.
 - 📫 Voçe pode me encontrar pelos meus dados logo abaixo:
 - Email: victorgomesdacosta18@gmail.com
 - Telefone: (88)981437585
