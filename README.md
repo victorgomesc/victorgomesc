@@ -1,4 +1,4 @@
-- Oi sou Victor, moro em carius ceara, estudo na universsidade federal do ceara (UFC), e faço o cursso de engenharia de computação, sou muito familiarizado com a area da
+- Oi sou Victor, moro em quixadá ceara, estudo na universsidade federal do ceara (UFC), e faço o cursso de engenharia de computação, sou muito familiarizado com a area da
 - tecnologia por consseguir resolver varios problemas utilizando a mesma.
 - 👀 Atualmente procuro por uma oportunidade de trabalhar com ciencia de dados ou desenvolvimento web, também tenho bastante interesse por automação e sistemas
 -  embarcados.
