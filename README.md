@@ -3,7 +3,8 @@
 ###
 
 <p align="left">I'm a Data Scientist and WEB Developer</p>
-<p align="left">Embedded systems developer</p>
+<p align="left">Embedded Systems Developer</p>
+<p align="left">Computer Engineer</p>
 
 ###
 
