@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 React Native Hybrid Mobile Development, React.JS and NEXT.JS 14<br>📖 I'm currently learning React Native, React.JS and Next.JS<br>🎲 Study NEXT.JS and Project Architecture <br>🎯 Work with NEXT.JS and React Native</p>
+<p align="left">👨‍💻 Data scientist, React.JS and NEXT.JS 14<br>📖 I'm currently learning Python e data science, React.JS and Next.JS, Node.JS<br>🎲 Study NEXT.JS and Project Architecture <br>🎯 Work with NEXT.JS and React</p>
 
 ###
 
