@@ -3,6 +3,7 @@
 ###
 
 <p align="left">I'm a Data Scientist and WEB Developer</p>
+<p align="left">Embedded systems developer</p>
 
 ###
 
