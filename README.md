@@ -69,5 +69,7 @@
 
 <h2 align="left">Profile status</h2>
 ### 
+
   ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorgomesc&show_icons=true&theme=radical)
+  
 ###
