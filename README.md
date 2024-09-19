@@ -72,6 +72,6 @@
 
   ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorgomesc&show_icons=true&theme=radical)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgomesc&layout=compact)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/victorgomesc/github-readme-stats)
   
 ###
