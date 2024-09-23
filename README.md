@@ -71,6 +71,6 @@
 
   ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorgomesc&show_icons=true&theme=radical)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgomesc&layout=dark)](https://github.com/victorgomesc/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgomesc&layout=pie &theme=radical)](https://github.com/victorgomesc/github-readme-stats)
   
 
