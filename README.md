@@ -70,5 +70,6 @@
 
 
   ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorgomesc&show_icons=true&theme=radical)
+  https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
   
 
