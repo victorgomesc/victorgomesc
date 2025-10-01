@@ -101,7 +101,7 @@
 
 ## 🚀 Featured Projects  
 
-<p align="center">
+<p align="left">
   🔹 <b>⚔️ Game of Thrones API & Website</b> → C# + Next.js (Fullstack project) <br/>
   🔹 <b>📊 Data Analysis with Python</b> → Pandas, Numpy, Matplotlib <br/>
   🔹 <b>🔌 Embedded Systems Snake Game</b> → Beaglebone Black + ARM Cortex-A8 + C  
@@ -113,7 +113,7 @@
 
 ## 🎓 Certifications  
 
-<p align="center">
+<p align="left">
   ✅ Scrum Foundation Professional Certificate (CertiProf) <br/>
   ✅ Python for Data Analysis <br/>
   ✅ Foundations of Python Language for Data Analysis and Data Science (DSA)  
