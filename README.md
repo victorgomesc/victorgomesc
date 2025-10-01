@@ -9,16 +9,18 @@
 
 ## 🧑‍🚀 About Me  
 
-✨ Apaixonado por **tecnologia, ciência de dados e desenvolvimento fullstack**  
-📚 Atualmente aprendendo e aprimorando: **Python, Data Science, React.js, Next.js 14 e Node.js**  
-⚡ Experiência com **arquitetura de projetos e metodologias ágeis (Scrum, Kanban)**  
-🎯 Foco em criar soluções **eficientes, escaláveis e de impacto**  
+<p align="center">
+✨ Apaixonado por <b>tecnologia, ciência de dados e desenvolvimento fullstack</b> <br/>
+📚 Atualmente aprendendo e aprimorando: <b>Python, Data Science, React.js, Next.js 14 e Node.js</b> <br/>
+⚡ Experiência com <b>arquitetura de projetos e metodologias ágeis (Scrum, Kanban)</b> <br/>
+🎯 Foco em criar soluções <b>eficientes, escaláveis e de impacto</b>  
+</p>
 
 ---
 
 ## 🌎 Connect with Me  
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/victor-gomes-da-costa-123a90241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -41,27 +43,69 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Hard Skills  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,redux,python,dotnet,postgres,mongodb,docker,linux,git" height="50" />
-</div>
+### 🔹 Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,python" height="45" />
+</p>
+
+### 🔹 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="45" />
+</p>
+
+### 🔹 Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet" height="45" />
+  <img src="https://nestjs.com/img/logo_text.svg" height="40" alt="nestjs logo" />
+  <img src="https://img.shields.io/badge/REST-APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white" height="30" />
+</p>
+
+### 🔹 Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" height="45" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="30" />
+</p>
+
+### 🔹 Testing  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest" height="45" />
+  <img src="https://testing-library.com/img/octopus-128x128.png" height="45" alt="testing library logo" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="30" />
+</p>
+
+### 🔹 DevOps & Cloud  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,github,gitlab,git" height="45" />
+  <img src="https://img.shields.io/badge/Git%20Flow-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="30" />
+</p>
+
+### 🔹 Architecture & Agile  
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=archlinux&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-FF6F00?style=for-the-badge&logo=scrumalliance&logoColor=white" height="30" />
+</p>
 
 ---
 
 ## ⚙️ Tools I Use  
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,trello,jira,canva" height="50" />
-</div>
+</p>
 
 ---
 
 ## 🚀 Featured Projects  
 
-🔹 **⚔️ Game of Thrones API & Website** → C# + Next.js (Fullstack project)  
-🔹 **📊 Data Analysis with Python** → Pandas, Numpy, Matplotlib  
-🔹 **🔌 Embedded Systems Snake Game** → Beaglebone Black + ARM Cortex-A8 + C  
+<p align="center">
+  🔹 <b>⚔️ Game of Thrones API & Website</b> → C# + Next.js (Fullstack project) <br/>
+  🔹 <b>📊 Data Analysis with Python</b> → Pandas, Numpy, Matplotlib <br/>
+  🔹 <b>🔌 Embedded Systems Snake Game</b> → Beaglebone Black + ARM Cortex-A8 + C  
+</p>
 
 👉 Explore mais nos meus [repositórios](https://github.com/victorgomesc?tab=repositories)  
 
@@ -69,23 +113,25 @@
 
 ## 🎓 Certifications  
 
-✅ **Scrum Foundation Professional Certificate (CertiProf)**  
-✅ **Python for Data Analysis**  
-✅ **Foundations of Python Language for Data Analysis and Data Science (DSA)**  
+<p align="center">
+  ✅ Scrum Foundation Professional Certificate (CertiProf) <br/>
+  ✅ Python for Data Analysis <br/>
+  ✅ Foundations of Python Language for Data Analysis and Data Science (DSA)  
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victorgomesc&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgomesc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
-</div>
+</p>
 
 ---
 
 ## ✨ Fun Fact  
 
-> *“Technology, like art, is a soaring exercise of the human imagination.”* – Daniel Bell  
-
----
+<p align="center">
+  <i>“Technology, like art, is a soaring exercise of the human imagination.”</i> – Daniel Bell  
+</p>
