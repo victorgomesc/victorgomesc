@@ -1,111 +1,91 @@
-<h1 align="left">Hi, I'm Victor Gomes 🙋‍♂️</h1>
+<!-- Banner de boas-vindas -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Victor Gomes</span></h1>
 
-###
+<p align="center">
+  💻 <b>Computer Engineer</b> | 📊 <b>Data Scientist</b> | 🌐 <b>Web & Embedded Systems Developer</b>  
+</p>
 
-<p align="left">I'm a Data Scientist and WEB Developer</p>
-<p align="left">Embedded Systems Developer</p>
-<p align="left">Computer Engineer</p>
+---
 
-###
+## 🧑‍🚀 About Me  
 
-<h2 align="left">About me</h2>
+✨ Apaixonado por **tecnologia, ciência de dados e desenvolvimento fullstack**  
+📚 Atualmente aprendendo e aprimorando: **Python, Data Science, React.js, Next.js 14 e Node.js**  
+⚡ Experiência com **arquitetura de projetos e metodologias ágeis (Scrum, Kanban)**  
+🎯 Foco em criar soluções **eficientes, escaláveis e de impacto**  
 
-###
+---
 
-<p align="left">👨‍💻 Data scientist, React.JS and NEXT.JS 14<br>📖 I'm currently learning Python e data science, React.JS and Next.JS, Node.JS<br>🎲 Study NEXT.JS and Project Architecture <br>🎯 Work with NEXT.JS and React</p>
+## 🌎 Connect with Me  
 
-###
-
-<h2 align="left">Connect with me</h2>
-
-###
-
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/victor-gomes-da-costa-123a90241/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:victorgomesdacosta18@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:victorgomesdacosta18@alu.ufc.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/UFC%20Email-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
   <a href="https://t.me/+5588981437585" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=88981437585" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/victor_gomesc/?next=%2F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/victor_gomesc/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,redux,python,dotnet,postgres,mongodb,docker,linux,git" height="50" />
 </div>
 
-###
+---
 
-<h2 align="left">Hard Skills</h2>
+## ⚙️ Tools I Use  
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,trello,jira,canva" height="50" />
 </div>
 
-###
+---
 
-<h2 align="left">Work tools</h2>
+## 🚀 Featured Projects  
 
-###
+🔹 **⚔️ Game of Thrones API & Website** → C# + Next.js (Fullstack project)  
+🔹 **📊 Data Analysis with Python** → Pandas, Numpy, Matplotlib  
+🔹 **🔌 Embedded Systems Snake Game** → Beaglebone Black + ARM Cortex-A8 + C  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+👉 Explore mais nos meus [repositórios](https://github.com/victorgomesc?tab=repositories)  
+
+---
+
+## 🎓 Certifications  
+
+✅ **Scrum Foundation Professional Certificate (CertiProf)**  
+✅ **Python for Data Analysis**  
+✅ **Foundations of Python Language for Data Analysis and Data Science (DSA)**  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorgomesc&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgomesc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
 </div>
 
-###
-###
+---
 
-<h2 align="left">Profile status</h2>
+## ✨ Fun Fact  
 
+> *“Technology, like art, is a soaring exercise of the human imagination.”* – Daniel Bell  
 
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=victorgomesc&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=true&order=1" height="150" alt="stats graph" hspace="16"  /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgomesc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=outrun&hide_border=true&order=2" height="150" alt="languages graph" hspace="16"  />
-</div>
-
-###
-
-###
+---
