@@ -9,7 +9,7 @@
 
 ## 🧑‍🚀 About Me  
 
-<p align="center">
+<p align="left">
 ✨ Apaixonado por <b>tecnologia, ciência de dados e desenvolvimento fullstack</b> <br/>
 📚 Atualmente aprendendo e aprimorando: <b>Python, Data Science, React.js, Next.js 14 e Node.js</b> <br/>
 ⚡ Experiência com <b>arquitetura de projetos e metodologias ágeis (Scrum, Kanban)</b> <br/>
