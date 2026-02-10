@@ -46,26 +46,33 @@
 ## 🛠️ Hard Skills  
 
 ### 🔹 Languages  
+<div>
+  
+</div>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,cs,python" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet" height="45" />
+  <img src="https://nestjs.com/img/logo_text.svg" height="40" alt="nestjs logo" />
+   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" height="45" />
+  <img src="https://skillicons.dev/icons?i=jest" height="45" />
+  <img src="https://testing-library.com/img/octopus-128x128.png" height="45" alt="testing library logo" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="30" />
 </p>
 
 ### 🔹 Frontend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="45" />
-</p>
+<!-- <p align="left">
+  
+</p> -->
 
 ### 🔹 Backend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet" height="45" />
-  <img src="https://nestjs.com/img/logo_text.svg" height="40" alt="nestjs logo" />
-  <img src="https://img.shields.io/badge/REST-APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white" height="30" />
+  
 </p>
 
 ### 🔹 Databases  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" height="45" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="30" />
+  
 </p>
 
 ### 🔹 Testing  
