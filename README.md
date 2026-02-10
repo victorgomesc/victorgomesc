@@ -60,33 +60,11 @@
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="30" />
 </p>
 
-### 🔹 Frontend  
-<!-- <p align="left">
-  
-</p> -->
 
-### 🔹 Backend  
-<p align="left">
-  
-</p>
-
-### 🔹 Databases  
-<p align="left">
-  
-</p>
-
-### 🔹 Testing  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jest" height="45" />
-  <img src="https://testing-library.com/img/octopus-128x128.png" height="45" alt="testing library logo" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="30" />
-</p>
 
 ### 🔹 DevOps & Cloud  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,github,gitlab,git" height="45" />
-  <img src="https://img.shields.io/badge/Git%20Flow-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="30" />
 </p>
 
 
