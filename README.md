@@ -83,6 +83,5 @@
 ## ✨ Fun Fact
 
 <p align="center">
-  <i>"Technology, like art, is a soaring exercise of the human imagination."</i><br/>
-  — Daniel Bell
+  <i>"Look up at the stars and not down at your feet." — Stephen Hawking</i><br/>
 </p>
