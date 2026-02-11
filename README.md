@@ -57,7 +57,6 @@
    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" height="45" />
   <img src="https://skillicons.dev/icons?i=jest" height="45" />
   <img src="https://testing-library.com/img/octopus-128x128.png" height="45" alt="testing library logo" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="30" />
 </p>
 
 
@@ -71,10 +70,15 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorgomesc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgomesc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=victorgomesc&theme=tokyonight&hide_border=true)
+
+
+
+
+
+
+
+
 
 ###
 
