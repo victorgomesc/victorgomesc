@@ -72,13 +72,23 @@
 
 ---
 
-## 📊 GitHub Activity
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=victorgomesc&theme=tokyonight&hide_border=true"/>
-</p>
+# 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=victorgomesc&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com/?user=victorgomesc&theme=tokyonight&hide_border=true"/>
+
+</br>
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=victorgomesc&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+</br>
+</br
 
 ---
+<img src="https://komarev.com/ghpvc/?username=victorgomesc&icon=0&color=0" />
+</div>
 
 ## ✨ Fun Fact
 
